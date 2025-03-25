@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["index.92856bad.css","src/big-search.css"],"sourcesContent":[".big-search {\n  padding-top: 20px;\n  padding-bottom: 20px;\n}\n/*# sourceMappingURL=index.92856bad.css.map */\n",".big-search {\n  padding-bottom: 20px;\n\n  padding-top: 20px;\n}\n"],"names":[],"version":3,"file":"index.92856bad.css.map"}
